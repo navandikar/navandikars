@@ -1,0 +1,18 @@
+{
+  "name": "navandikars",
+  "version": "1.0.0",
+  "description": "navandikars",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "keywords": [
+    "navandikars"
+  ],
+  "author": "abhijeet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  }
+}
